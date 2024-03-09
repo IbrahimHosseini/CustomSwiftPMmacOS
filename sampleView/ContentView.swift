@@ -6,14 +6,15 @@
 //
 
 import SwiftUI
+import mySamplePackage
 
 struct ContentView: View {
+  
     var body: some View {
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+          CustomTextView("iOS Developer @SternX")
+          CustomTextFiled("Ibrahim")
+          CustomButton("Enter")
         }
         .padding()
     }

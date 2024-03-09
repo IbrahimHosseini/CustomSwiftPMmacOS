@@ -1,0 +1,15 @@
+{
+  "originHash" : "d4333cb822b10fc50fd71414ad65623eccba75d2c85cd88faac007321ee87ba6",
+  "pins" : [
+    {
+      "identity" : "mysamplepackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/IbrahimHosseini/mySamplePackageManager.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "45ed4c60e6d7569c106a3fb69c7e3237cf70c108"
+      }
+    }
+  ],
+  "version" : 3
+}
